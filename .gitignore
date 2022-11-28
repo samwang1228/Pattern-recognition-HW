@@ -2,3 +2,6 @@
 images
 annotations
 jena_climate_2009_2016.csv
+jena_conv.keras
+jena_dense.keras
+jena_lstm.keras
